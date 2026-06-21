@@ -7,12 +7,12 @@ namespace IndexadorDePalavras.ListaEncadeada
 {
     internal class NoListaOcorrencias
     {
-        public Ocorrencia No { get; set; }
+        public Ocorrencia Dado { get; set; }
         public NoListaOcorrencias Proximo { get; set; }
 
         public NoListaOcorrencias(Ocorrencia ocorrencia)
         {
-            No = ocorrencia;
+            Dado = ocorrencia;
         }
     }
 }

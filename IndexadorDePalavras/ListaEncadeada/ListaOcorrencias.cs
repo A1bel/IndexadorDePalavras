@@ -21,7 +21,7 @@ namespace IndexadorDePalavras.ListaEncadeada
             else
             {
                 NoListaOcorrencias atual = _raiz;
-                while(atual.Proximo != null)
+                while (atual.Proximo != null)
                 {
                     atual = atual.Proximo;
                 }
@@ -36,5 +36,16 @@ namespace IndexadorDePalavras.ListaEncadeada
             return _quantidade;
         }
 
+        public void ObterTodas()
+        {
+            NoListaOcorrencias atual = _raiz;
+
+            while (atual != null)
+            {
+                Console.WriteLine($"Linha {atual.Dado.Linha}, Coluna {atual.Dado.Coluna}");
+                atual = atual.Proximo;
+            }
+        }
     }
+
 }

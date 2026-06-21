@@ -1,0 +1,33 @@
+Em 2026, a cidade estava em pleno crescimento e muitas pessoas chegaram para trabalhar na nova indústria.
+
+A cidade cresceu rápido, e a população da cidade começou a aumentar mês após mês.
+
+Muitas pessoas diziam que 2026 seria um ano histórico, e de fato 2026 marcou mudanças importantes.
+
+No centro da cidade, havia uma biblioteca antiga. A biblioteca guardava livros raros, livros antigos e livros muito valiosos.
+
+Os estudantes visitavam a biblioteca todos os dias. Alguns estudantes estudavam em silêncio, enquanto outros apenas observavam o ambiente.
+
+C# era uma das linguagens mais usadas na época, e muitos desenvolvedores aprendiam C# para trabalhar com sistemas modernos.
+
+c# também era ensinada em cursos técnicos, e C# se tornava cada vez mais popular.
+
+Havia dias em que a cidade parecia silenciosa... outros dias eram barulhentos, cheios de carros, pessoas e vida.
+
+---
+
+!!! ??? ... ;;;
+
+Em uma dessas manhãs, um estudante encontrou um livro antigo na biblioteca. Esse livro falava sobre estruturas de dados e árvores.
+
+O estudante ficou curioso e começou a estudar mais profundamente árvores binárias, listas encadeadas e algoritmos.
+
+Aos poucos, ele percebeu que a programação não era apenas código, mas também lógica e organização.
+
+A organização dos dados era essencial para sistemas eficientes.
+
+No final do semestre, o estudante já entendia melhor como funcionavam árvores como BST, AVL e até Red-Black.
+
+Ele dizia: "programação é entender padrões, repetir padrões e melhorar padrões".
+
+E assim, a cidade, a biblioteca e o estudante continuaram crescendo juntos.
